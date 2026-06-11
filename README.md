@@ -52,3 +52,9 @@ The goal is to build a reasoning control layer that helps AI decide:
 
 - [Environmental Variable Seed Dataset](datasets/environmental-variable-seed.md)
 - [Golden 100 Benchmark Plan](datasets/golden-100-plan.md)
+
+## Examples
+
+See practical examples here:
+
+[Examples](./examples.md)
