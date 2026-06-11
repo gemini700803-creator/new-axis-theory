@@ -47,3 +47,8 @@ The goal is to build a reasoning control layer that helps AI decide:
 - Can this question be verified?
 - What risks exist if the answer is wrong?
 - What is the lowest-risk response?
+
+- ## Benchmark Files
+
+- [Environmental Variable Seed Dataset](datasets/environmental-variable-seed.md)
+- [Golden 100 Benchmark Plan](datasets/golden-100-plan.md)
