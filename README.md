@@ -53,6 +53,34 @@ The goal is to build a reasoning control layer that helps AI decide:
 - [Environmental Variable Seed Dataset](datasets/environmental-variable-seed.md)
 - [Golden 100 Benchmark Plan](datasets/golden-100-plan.md)
 
+- ## Evaluation Evidence
+
+The project includes a preliminary paired evaluation of New Axis Theory against baseline LLM responses.
+
+### Evaluation Method
+
+* [Evaluation Protocol](EVALUATION-PROTOCOL.md)
+* [Environmental Variable Benchmark](datasets/environmental-variable-benchmark.md)
+
+### Pilot Results
+
+* [Pilot Evaluation Summary](PILOT-SUMMARY.md)
+* [EV-001: Taiwan Real Estate](FIRST-EVALUATION.md)
+* [EV-002: NVIDIA versus Apple](EV-002-EVALUATION.md)
+* [EV-003: AI and Programmers](EV-003-EVALUATION.md)
+
+### Current Pilot Scores
+
+| Case      |  Baseline | New Axis Theory |
+| --------- | --------: | --------------: |
+| EV-001    |      7/10 |           10/10 |
+| EV-002    |      7/10 |           10/10 |
+| EV-003    |      8/10 |           10/10 |
+| **Total** | **22/30** |       **30/30** |
+
+These results are preliminary and descriptive. They do not prove universal effectiveness. The next phase requires a larger benchmark, complete raw-output preservation, multiple models, independent evaluators, and blind scoring.
+
+
 ## Examples
 
 See practical examples here:
